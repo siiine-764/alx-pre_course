@@ -1,0 +1,6 @@
+git add .
+git status
+git commit -m "message"
+git checkout -b update_script
+git push
+git push --set-upstream origin update_script
